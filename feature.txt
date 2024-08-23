@@ -1,0 +1,3 @@
+This is the initial version of the feature.txt file.
+We are working on a new feature that will enhance the application.
+More details will be added soon.
